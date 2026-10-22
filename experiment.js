@@ -1632,15 +1632,14 @@ const preload = {
     "pretest_img/pretest_icecube.png",
     "pretest_img/pretest_ocean.png",
     "pretest_img/pretest_clock.png",
-    "img/AT&T.png",
-    "img/consumer_cellular.png",
-    "img/G_fiber.png",
-    "img/mint_mobile.png",
-    "img/smartless_mobile.png",
-    "img/spectrum_mobile.png",
-    "img/T-Mobile.png",
-    "img/verizon.png",
-    "img/xfinity_mobile.png",
+    "img/sanderson.png",
+    "img/tyson.png",
+    "img/perdue.png",
+    "img/great_value.png",
+    "img/foster_farms.png",
+    "img/piligrims.png",
+    "img/heritage.png",
+    "img/publix.png"
   ],
 };
 

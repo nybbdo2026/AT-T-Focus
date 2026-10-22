@@ -1,19 +1,79 @@
 const brands = [
-    { name: "AT&T", img: "img/AT&T.png" },
-    { name: "consumer_cellular", img: "img/consumer_cellular.png" }, 
-    { name: "G_fiber", img:"img/G_fiber.png" }, 
-    { name: "mint_mobile", img:"img/mint_mobile.png" },
-    { name: "smartless_mobile", img:"img/smartless_mobile.png" },
-    { name: "spectrum_mobile", img:"img/spectrum_mobile.png" },
-    { name: "T-Mobile", img:"img/T-Mobile.png" },
-    { name: "verizon", img:"img/verizon.png" },
-    { name: "xfinity_mobile", img:"img/xfinity_mobile.png" }
+    { name: "Sanderson Farms", img: "img/sanderson.png" },
+    { name: "Tyson Foods", img: "img/tyson.png" }, 
+    { name: "Perdue", img:"img/perdue.png" }, 
+    { name: "Great Value", img:"img/great_value.png" },
+    { name: "Foster Farms", img:"img/foster_farms.png" },
+    { name: "Pilgrims", img:"img/piligrims.png" },
+    { name: "Heritage Farms", img:"img/heritage.png" },
+    { name: "Publix", img:"img/publix.png" }
   ];
 
-const category = "Mobile Networks"
+const category ="Fresh Chicken Brands"
 
-const attributes = ["Adventure","Freedom","Discovery","Escape","Unconventional","Dynamic","Resilience","Liberation","Success","Sophistication","Doing my best","Confidence","Empowerment","Optimization","Self-Improvement","Strong","Enablement","Joy","Carefreeness","Pleasure","Relief","Relaxation","Optimism","Satisfaction","Reassurance","Comfort","Control","Reason","Practical","Expertise","Functional","Savvy","Value","Proven","Efficiency","Safety","Trusted","Closeness","Protection","Peace of mind","Belonging","Dependability","Security","Meaningful connections","Excitement","Fun","Stimulation","Curiosity","Change","Energy","Creativity","Velocity"];
-
+const attributes = [
+  "Freedom",
+  "Discovery",
+  "Escape",
+  "Unconventional",
+  "Resilience",
+  "Liberation",
+  "Boldness",
+  "Experimentation",
+  "Pride",
+  "Perfection",
+  "Doing my best",
+  "Confidence",
+  "Empowerment",
+  "Optimization",
+  "Self-Improvement",
+  "Enablement",
+  "Aspiration",
+  "Joy",
+  "Spoil myself",
+  "Carefreeness",
+  "Pleasure",
+  "Relief",
+  "Relaxation",
+  "Naturalness",
+  "Be at ease with myself",
+  "Satisfaction",
+  "Control",
+  "Simplicity",
+  "Practical",
+  "Expertise",
+  "Down to earth",
+  "Functional",
+  "Savvy",
+  "Value",
+  "Proven",
+  "Efficiency",
+  "Trusted",
+  "Caring",
+  "Togetherness",
+  "Sense of harmony",
+  "Protection",
+  "Peace of mind",
+  "Warm-hearted",
+  "Belonging",
+  "Security",
+  "Excitement",
+  "Zest for life",
+  "Inspiration",
+  "Fun",
+  "Expression",
+  "Exploration",
+  "Curiosity",
+  "Change",
+  "Be on trend",
+  "Creativity",
+  "Easy weeknight dinners",
+  "Fresh chicken cuts",
+  "Good value for the money",
+  "Worth paying more for",
+  "A brand I trust",
+  "Chicken with no antibiotics"
+];
 const pretest_attributes = [
   "Hot", 
   "Cold", 
@@ -42,4 +102,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "AT&T Survey"
+const survey_name = "Sanderson Farms Survey"
